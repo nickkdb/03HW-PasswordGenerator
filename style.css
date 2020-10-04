@@ -1,0 +1,63 @@
+html {
+    background-image: url("../../Homework/Temp-folder/neutrino.jpg");
+    background-size: cover;
+    background-color: transparent;
+    min-width: 100%;
+}
+
+h1 {
+    color: rgb(235, 31, 218);
+    font-size: 60px;
+    text-align: center;
+}
+
+body {
+    background-color: transparent;
+}
+
+.btn {
+        height: 100px;
+        width: 200px;
+        position: relative;
+        left: 43%;
+        display: inline-block;
+        font-weight: 400;
+        color: #1b66b1;
+        text-align: center;
+        vertical-align: middle;
+        background-color: transparent;
+        border: 1px solid transparent;
+        font-size: 2rem;
+        border-radius: .25rem;
+        
+        
+}
+.btn:hover {
+    background-color: white;
+    
+}
+
+.btn-outline-danger {
+    color: #dc3545;
+    border-color: #dc3545;
+}
+
+#result {
+    color: black;
+    background-color: rgb(233, 230, 230);
+    position: absolute;
+    bottom: 20px;
+    left: 32%;
+    width: 550px;
+    height: 75px;
+    resize:none;
+    text-align: center;
+    word-wrap: break-word;
+    
+}
+
+
+
+
+
+
